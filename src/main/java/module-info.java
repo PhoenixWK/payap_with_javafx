@@ -12,5 +12,7 @@ module payap.main.payap {
     requires com.almasb.fxgl.all;
 
     opens payap.main.payap to javafx.fxml;
+    opens payap.main.payap.controller.ui_controlller to javafx.fxml;
     exports payap.main.payap;
+    exports payap.main.payap.controller.ui_controlller;
 }
