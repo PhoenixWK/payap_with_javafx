@@ -55,4 +55,8 @@ public class SceneManager {
             e.printStackTrace();
         }
     }
+
+    public static void setStageTitle(String title) {
+        stage.setTitle(title);
+    }
 }
