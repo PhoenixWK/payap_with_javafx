@@ -37,3 +37,27 @@
         -fx-background-color: #434343;
     }
 
+    #total-balance  {
+        -fx-border-radius: 10;
+        -fx-background-radius: 10;
+    }
+
+    #total-income {
+        -fx-border-radius: 10;
+        -fx-background-radius: 10;
+    }
+
+    #total-outcome {
+        -fx-border-radius: 10;
+        -fx-background-radius: 10;
+    }
+
+    #weekly-summary {
+        -fx-border-radius: 10;
+        -fx-background-radius: 10;
+    }
+
+    #revenue {
+        -fx-border-radius: 10;
+        -fx-background-radius: 10;
+    }
